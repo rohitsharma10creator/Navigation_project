@@ -1,4 +1,4 @@
-# Banana Agent
+# Train an RL Agent to Collect Bananas
 
 ## Project's goal
 
